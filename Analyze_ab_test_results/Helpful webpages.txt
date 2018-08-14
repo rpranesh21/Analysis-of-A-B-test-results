@@ -1,0 +1,5 @@
+List of webpages used for analysis
+1. Stackoverflow
+2. https://pandas.pydata.org
+3.https://datasciencelab.wordpress.com/
+4.http://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.proportions_ztest.html
